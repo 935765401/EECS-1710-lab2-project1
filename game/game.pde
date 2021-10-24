@@ -103,3 +103,6 @@ void draw() {
   image(picture, x, y);
    moveY = moveY + 5;
 }
+//Bounce：https://processing.org/examples/bounce.html
+//Easing:https://processing.org/examples/easing.html
+//The picture is from the movie Harry Potter, but I saved it with PS
